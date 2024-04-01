@@ -2,7 +2,7 @@
 
 const TelegramBot = require('node-telegram-bot-api');
 
-const token = '6430139101:AAFTBftHEMKvSWhKYNqEv2vN8leyAu4BBnE';
+const token = '6601508078:AAHhLVkI-WSYJGLi41-YqrDe6nFr1UH1fD8';
 const yourChatId = '1797069998'; // Your chat ID
 
 const bot = new TelegramBot(token, { polling: true });
